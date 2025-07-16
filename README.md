@@ -1,6 +1,6 @@
 # Simple Ecommerce_Website
-![Website Preview](home.png)
-![Website Preview](shoppage.png)
-![Website Preview](details.png)
-![Website Preview](cart.png)
-![Website Preview](login.png)
+![Website Preview](images/home.png)
+![Website Preview](images/shoppage.png)
+![Website Preview](images/details.png)
+![Website Preview](images/cart.png)
+![Website Preview](images/login.png)
